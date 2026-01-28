@@ -39,7 +39,7 @@ Whether you're processing a tough conversation, feeling stuck at work, or just n
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/jasonge/guided-journaling.git
+   git clone https://github.com/jasonge27/guided-journaling-skill.git
    ```
 
 2. **Create a folder for your journals**
