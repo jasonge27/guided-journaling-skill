@@ -17,12 +17,15 @@ Whether you're processing a tough conversation, feeling stuck at work, or just n
 
 ---
 
-## How It Works
+## Response Philosophy
 
-1. **Start writing** — Share what's on your mind, in any way you like.
-2. **Get real-time responses** — The assistant asks clarifying questions, reflects back what it hears, and gently challenges assumptions.
-3. **Choose your depth** — Want practical tips? Life coaching mode. Need to untangle emotions? Reflective mode. Dealing with relationship tension? There's a mode for that too.
-4. **Save and build** — Use `/save` to capture the session. Next time, the assistant picks up where you left off.
+The assistant follows these principles:
+
+- **Collaborative, not prescriptive** - Explore together, don't lecture
+- **Curious, not certain** - Questions over answers
+- **Warm but not saccharine** - Genuine, not performative
+- **Spacious, not rushed** - Silence is okay
+- **Human, not clinical** - Like a wise friend
 
 ---
 
@@ -32,6 +35,12 @@ Whether you're processing a tough conversation, feeling stuck at work, or just n
 - **Anyone feeling stuck** who needs a thinking partner to get unstuck
 - **People processing emotions** who want support without judgment
 - **Self-improvement enthusiasts** who value consistent reflection and growth tracking
+
+---
+
+## A Note on Scope
+
+This is a reflection tool, not a therapist. It's great for everyday processing, personal growth, and getting unstuck—but it's not a substitute for professional mental health care. If you're in crisis or need clinical support, please reach out to a licensed professional.
 
 ---
 
@@ -158,20 +167,6 @@ skills/guided-journaling/
 │   └── life-coach.md     # Life coaching frameworks and action items
 └── sessions/             # Session history (created automatically)
 ```
-
-## Response Philosophy
-
-The assistant follows these principles:
-
-- **Collaborative, not prescriptive** - Explore together, don't lecture
-- **Curious, not certain** - Questions over answers
-- **Warm but not saccharine** - Genuine, not performative
-- **Spacious, not rushed** - Silence is okay
-- **Human, not clinical** - Like a wise friend
-
-## A Note on Scope
-
-This is a reflection tool, not a therapist. It's great for everyday processing, personal growth, and getting unstuck—but it's not a substitute for professional mental health care. If you're in crisis or need clinical support, please reach out to a licensed professional.
 
 ---
 
