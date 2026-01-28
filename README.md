@@ -35,6 +35,38 @@ Whether you're processing a tough conversation, feeling stuck at work, or just n
 
 ---
 
+## Installation
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/jasonge/guided-journaling.git
+   ```
+
+2. **Create a folder for your journals**
+   ```bash
+   mkdir my-journal
+   cd my-journal
+   ```
+
+3. **Set up the skills directory**
+   ```bash
+   mkdir -p .claude/skills
+   ```
+
+4. **Copy the skill to your journal folder**
+   ```bash
+   cp -r /path/to/guided-journaling/skills/guided-journaling .claude/skills/
+   ```
+
+5. **Run Claude Code in the journal folder**
+   ```bash
+   my-journal$claude
+   ```
+
+That's it! Start a conversation and share what's on your mind.
+
+---
+
 ## Counseling Modes
 
 ### CBT-Style Therapy (`cbt`)
